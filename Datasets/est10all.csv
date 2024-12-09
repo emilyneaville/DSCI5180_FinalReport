@@ -1,6 +1,4 @@
-﻿Table with column headers in row 3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Table 1: 2010 Poverty and Median Income Estimates - Counties                             Source: U.S. Census Bureau, Small Area Estimates Branch                              Release date: 11.2011",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-State FIPS,County FIPS,Postal,Name,Poverty Estimate All Ages,90% CI Lower Bound,90% CI Upper Bound,Poverty Percent All Ages,90% CI Lower Bound2,90% CI Upper Bound3,Poverty Estimate Under Age 18,90% CI Lower Bound4,90% CI Upper Bound5,Poverty Percent Under Age 18,90% CI Lower Bound6,90% CI Upper Bound7,Poverty Estimate Ages 5-17,90% CI Lower Bound8,90% CI Upper Bound9,Poverty Percent Ages 5-17,90% CI Lower Bound10,90% CI Upper Bound11,Median Household Income,90% CI Lower Bound12,90% CI Upper Bound13,Poverty Estimate Ages 0-4,90% CI Lower Bound14,90% CI Upper Bound15,Poverty Percent Ages 0-4,90% CI Lower Bound16,90% CI Upper Bound17
+﻿State FIPS,County FIPS,Postal,Name,Poverty Estimate All Ages,90% CI Lower Bound,90% CI Upper Bound,Poverty Percent All Ages,90% CI Lower Bound2,90% CI Upper Bound3,Poverty Estimate Under Age 18,90% CI Lower Bound4,90% CI Upper Bound5,Poverty Percent Under Age 18,90% CI Lower Bound6,90% CI Upper Bound7,Poverty Estimate Ages 5-17,90% CI Lower Bound8,90% CI Upper Bound9,Poverty Percent Ages 5-17,90% CI Lower Bound10,90% CI Upper Bound11,Median Household Income,90% CI Lower Bound12,90% CI Upper Bound13,Poverty Estimate Ages 0-4,90% CI Lower Bound14,90% CI Upper Bound15,Poverty Percent Ages 0-4,90% CI Lower Bound16,90% CI Upper Bound17
 01,001,AL,Autauga County,"6,459","5,075","7,843",11.9,9.3,14.5,"2,530","1,956","3,104",17.5,13.5,21.5,"1,791","1,397","2,185",16.4,12.8,20.0,"53,049","49,486","56,612",,,,,,
 01,003,AL,Baldwin County,"24,056","20,333","27,779",13.3,11.2,15.4,"8,357","6,775","9,939",20.2,16.4,24.0,"5,734","4,655","6,813",18.9,15.3,22.5,"47,618","45,169","50,067",,,,,,
 01,005,AL,Barbour County,"6,098","4,749","7,447",25.3,19.7,30.9,"2,145","1,641","2,649",36.2,27.7,44.7,"1,458","1,114","1,802",34.3,26.2,42.4,"33,074","30,589","35,559",,,,,,
@@ -3144,6 +3142,3 @@ State FIPS,County FIPS,Postal,Name,Poverty Estimate All Ages,90% CI Lower Bound,
 56,041,WY,Uinta County,"2,344","1,868","2,820",11.2,8.9,13.5,887,668,"1,106",14.1,10.6,17.6,529,386,672,11.7,8.5,14.9,"60,532","54,776","66,288",,,,,,
 56,043,WY,Washakie County,"1,022",786,"1,258",12.1,9.3,14.9,333,245,421,15.6,11.5,19.7,209,149,269,13.7,9.7,17.7,"47,831","43,512","52,150",,,,,,
 56,045,WY,Weston County,678,516,840,9.9,7.5,12.3,195,143,247,12.8,9.4,16.2,116,82,150,10.4,7.3,13.5,"48,653","44,668","52,638",,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-"Source: U.S. Census Bureau, Small Area Estimates Branch",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Internet Release date: November 2011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
